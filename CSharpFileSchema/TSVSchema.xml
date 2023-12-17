@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- type = csv|tsv , delimiter , line ,   -->
+<file>
+  <header prefix=";">
+    <field name="Title" order="0">File Schema Sample</field>
+    <field name="Name" order="1" />
+    <field name="AtDownloaded" order="2" />
+  </header>
+  <columns>
+    <field name="Column1" order="0">列1</field>
+    <field name="Column2" order="1">列2</field>
+    <field name="Column3" order="2">列3</field>
+    <field name="Column4" order="3">列4</field>
+    <field name="AtUpdated" order="4">列5</field>
+    <field name="UpdatedUser" order="5">列6</field>
+    <field name="AtCreated" order="6">列7</field>
+    <field name="CreatedUser" order="7">列8</field>
+  </columns>
+</file>
