@@ -13,7 +13,7 @@ If you have any problems, please contact me via issue or the email address liste
 https://github.com/nhrwtr/CSharpCommon
 
 ## Environments
-- NET libraries for .NET Standard 2.0  
+- NET libraries for .NET 8  
 This does not guarantee operation in all devices and situations.
 
 ## Lincense
